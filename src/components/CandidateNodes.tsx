@@ -1,0 +1,8 @@
+import type {Candidate} from '../data/types';
+import {parties} from '../data/profilesData';
+export function Avatar({candidate,onClick,small=false,draggable=false}:{candidate:Candidate;onClick:()=>void;small?:boolean;draggable?:boolean}){
+ return <div className={`person-node ${small?'compact':''}`}><button className={`avatar ${small?'small':''}`} style={{borderColor:parties[candidate.party]||'#aaa',backgroundColor:`${parties[candidate.party]||'#aaa'}22`}} title={candidate.name} aria-label={candidate.name} onClick={onClick} draggable={draggable} onDragStart={e=>{e.dataTransfer.setData('application/x-rumbo-candidate',candidate.id);e.dataTransfer.setData('text/plain',candidate.id);e.dataTransfer.effectAllowed='move';document.body.classList.add('reassigning')}} onDragEnd={()=>document.body.classList.remove('reassigning')}>{candidate.photoUrl&&<img draggable={false} src={candidate.photoUrl} alt="" onError={e=>{e.currentTarget.style.display='none'}}/>}<span>{candidate.name.split(' ').map(n=>n[0]).slice(0,2).join('')}</span></button><span className="person-name">{candidate.name}</span></div>
+}
+export function Orbit({profiles,locked,onSelect}:{profiles:Candidate[];locked?:Candidate;onSelect:(c:Candidate)=>void}){
+ return <div className={`orbit ${locked?'locked':''}`}><div className="ring"/><div className="ring inner"/>{locked?<Avatar candidate={locked} onClick={()=>onSelect(locked)}/>:profiles.map(c=><div className="satellite" key={c.id}><div className="counter-orbit"><Avatar candidate={c} small onClick={()=>onSelect(c)}/></div></div>)}<span className="orbit-status">{locked?'CONFIRMADO':profiles.length?`${profiles.length} ASPIRANTES`:'SIN PERFILES'}</span></div>
+}
