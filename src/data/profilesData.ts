@@ -191,6 +191,16 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     ],
     bio: ` Ex candidato a la presidencia municipal de Querétaro`
   },
+                          {
+    id: 'armando-rivera',
+    name: 'Armando Rivera',
+    photoUrl: 'https://pbs.twimg.com/profile_images/2083711219647582208/cTpiQkG__400x400.jpg',
+    party: 'MC', 
+    aspirations: [
+      position('municipio', 14)
+    ],
+    bio: ` Ex Presdiente municipal de Querétaro`
+  },
                               {
     id: 'josue-guerrero',
     name: 'Josué Chepe Guerrero',
