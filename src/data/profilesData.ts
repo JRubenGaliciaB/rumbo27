@@ -268,5 +268,83 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     ],
     bio: `Diputado local`
   },
+                    {
+    id: 'beto-nava',
+    name: 'Beto Nava',
+    photoUrl: 'https://tse3.mm.bing.net/th/id/OIP.uCx1o9wV3h6EwxhLQwgWUAHaGC?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 11)
+    ],
+    bio: `Presidente Municipal de Pedro Escobedo`
+  },
+
+                      {
+    id: 'sully-sixtos',
+    name: 'Sully Sixtos',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/SYMS.png',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 11)
+    ],
+    bio: `Diputada Local`
+  },
+  
+                      {
+    id: 'esau-sigala',
+    name: 'Esau Sigala',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Vh5bDY5BLWr-NqcLDHOqiQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'independiente', 
+    aspirations: [
+      position('municipio', 11)
+    ],
+    bio: ``
+  },
+
+                        {
+    id: 'juancarlos-pinia',
+    name: 'Juan Carlos Piña',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Yy0Fh59Epj7VKaMFoml_6gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('municipio', 11)
+    ],
+    bio: `Director de Recursos Humanos Secretaria de Salud
+    Ex regidor de Pedro Escobedo`
+  },
+
+                          {
+    id: 'hector-magania',
+    name: 'Héctor Magaña',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Yy0Fh59Epj7VKaMFoml_6gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 17)
+    ],
+    bio: `Presidente Municipal de Tequisquiapan
+    Ex Diputado Local`
+  },
+
+                            {
+    id: 'karla-pinera',
+    name: 'Karla Piñera',
+    photoUrl: 'https://tse1.explicit.bing.net/th/id/OIP.ikJckt1QDuo5Yhgju3nLlgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 17)
+    ],
+    bio: ``
+  },
+
+                              {
+    id: 'jario-morales',
+    name: 'Jario Morales',
+    photoUrl: 'https://tse1.mm.bing.net/th/id/OIP.f4moQd2w_Ayre-5SXdAtpQHaGe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('municipio', 7)
+    ],
+    bio: `Presidente Municipal de Huimilpan`
+  },
   
 ];
