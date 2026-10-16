@@ -294,7 +294,7 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     id: 'esau-sigala',
     name: 'Esau Sigala',
     photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Vh5bDY5BLWr-NqcLDHOqiQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
-    party: 'independiente', 
+    party: 'IND', 
     aspirations: [
       position('municipio', 11)
     ],
