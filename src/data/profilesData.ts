@@ -262,11 +262,23 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     id: 'edgar-inzunza',
     name: 'Edgar Guero Inzunza',
     photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/EIB.png',
-    party: 'PAN', 
+    party: 'MORENA', 
     aspirations: [
       position('municipio', 16)
     ],
     bio: `Diputado local`
+  },
+
+                    {
+    id: 'ricardo-astudillo',
+    name: 'Ricardo Astudillo',
+    photoUrl: 'https://tse1.explicit.bing.net/th/id/OIP.rQDFJi5JzUw8UHMiWph-IAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 16)
+    ],
+    bio: `Diputado Federal
+    Ex Diputado local`
   },
                     {
     id: 'beto-nava',
