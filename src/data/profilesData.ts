@@ -328,7 +328,7 @@ Ex Diputado Federal y Ex regidor de Querétaro`
                           {
     id: 'hector-magania',
     name: 'Héctor Magaña',
-    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Yy0Fh59Epj7VKaMFoml_6gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    photoUrl: 'https://ciudadypoder.mx/wp-content/uploads/2024/07/Hector-Magana-4-scaled-e1721233537806.jpg',
     party: 'MORENA', 
     aspirations: [
       position('municipio', 17)
