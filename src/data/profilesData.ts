@@ -104,6 +104,17 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     bio: `Secretaria de las Muejeres Gobierno del Estado de Querétaro
     Ex Diputada Federal y Ex Diputada Local`
   },
+
+              {
+    id: 'ulises-gomez',
+    name: 'Ulises Gómez de la Rosa',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/UGR.png',
+    party: 'MORENA', 
+    aspirations: [
+      position('distrito_federal', 6)
+    ],
+    bio: `Diputada Local`
+  },
               {
     id: 'agustin-dorantes',
     name: 'Agustín Dorantes',
@@ -359,4 +370,221 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     bio: `Presidente Municipal de Huimilpan`
   },
   
+                                {
+    id: 'dulce-ventura',
+    name: 'Dulce Ventura',
+    photoUrl: 'https://tse1.explicit.bing.net/th/id/OIP.IcqWcg05IJUxTf1ak4G3DQHaHR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 1)
+    ],
+    bio: `Ex Diputada Local`
+  },
+
+    {
+    id: 'chava-martinez',
+    name: 'Chava Martínez',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.DEmLbSn3o79xMSa5zGMvQAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 1)
+    ],
+    bio: `Director Adjunto CEA
+    Ex Diputado Local`
+  },
+ 
+      {
+    id: 'manuel-pozo',
+    name: 'Manuel Pozo Cabrera',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.DEmLbSn3o79xMSa5zGMvQAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 2)
+    ],
+    bio: `Regidor de Querétaro
+    Ex Diputado Local`
+  },
+
+        {
+    id: 'manuel-pozo',
+    name: 'Manuel Pozo Cabrera',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Dc1fknWOBbDHt2Gj0jqC1wHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 2)
+    ],
+    bio: `Regidor de Querétaro
+    Ex Diputado Local`
+  },
+
+        {
+    id: 'adolfo-rios',
+    name: 'Adolfo Ríos',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.pe2-E0H3FfionE7sZFZ4tQHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 3)
+    ],
+    bio: `Delegado de Felix Osores
+    Ex Director CECA`
+  },
+
+          {
+    id: 'laura-aguilar',
+    name: 'Laura Aguilar',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.6f-U10FzSw3A7Wm72Eth7QHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 4)
+    ],
+    bio: `Coordinadora de jefatura de gabinete`
+  },
+
+            {
+    id: 'juliana-hernandez',
+    name: 'Juliana Hernández',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/JRHQ.png',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 5)
+    ],
+    bio: `Diputada Local
+    Ex regidora de Querétaro`
+  },
+
+              {
+    id: 'mauricio-cardenas',
+    name: 'Mauricio Cárdenas Palacios',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/MCP.png',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 6)
+    ],
+    bio: `Diputado Local`
+  },
+
+  {
+    id: 'enrique-correa',
+    name: 'Enrique Correa',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/EACS.png',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 7)
+    ],
+    bio: `Diputado Local`
+  },
+    {
+    id: 'irene-quintanar',
+    name: 'Irene Quintanar',
+    photoUrl: 'https://inqro.com.mx/wp-content/uploads/2024/08/IRENE-QUINTANAR.jpg',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 7)
+    ],
+    bio: `Coordinadora USEBEQ`
+  },
+
+      {
+    id: 'roberto-sosa',
+    name: 'Roberto Sosa',
+    photoUrl: 'https://sil.gobernacion.gob.mx/Archivos/Fotos/9228353.jpg',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 8)
+    ],
+    bio: `Diputado Federal
+    Ex Presidente Municipal de Corregidora`
+  },
+
+        {
+    id: 'tono-perezc',
+    name: 'Antonio Pérez Cabrera',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.ftANymWYxOpDC_jkjE-xSgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 10)
+    ],
+    bio: `Director JAPAM SJR`
+  },
+
+          {
+    id: 'lili-sanmartin',
+    name: 'Lili San Martín',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.j43_LWN_QCUgCIZhpq0BIQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 11)
+    ],
+    bio: `Secretaria del Trabajo Gobierno del Estado de Querétaro`
+  },
+
+
+            {
+    id: 'antonio-perezm',
+    name: 'Antonio Pérez Martínez',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.ftANymWYxOpDC_jkjE-xSgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 12)
+    ],
+    bio: `Coordinador UAQ Pedro Escobedo `
+  },
+
+                          {
+    id: 'juancarlos-pinia',
+    name: 'Juan Carlos Piña',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.Yy0Fh59Epj7VKaMFoml_6gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 12)
+    ],
+    bio: `Director de Recursos Humanos Secretaria de Salud
+    Ex regidor de Pedro Escobedo`
+  },
+
+                            {
+    id: 'veronica-galicia',
+    name: 'Verónica Galicia',
+    photoUrl: 'https://site.legislaturaqueretaro.gob.mx/CloudPLQ/Dips/LXI/fotos/AVGC.png',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 13)
+    ],
+    bio: `Diputada Local`
+  },
+
+
+        {
+    id: 'lety-rubio',
+    name: 'Lety Rubio',
+    photoUrl: 'https://rotativo.com.mx/media-library/lety-rubio-fortalecera-desarrollo-del-semidesierto-de-queretaro-2.jpg?id=62411619&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 14)
+    ],
+    bio: `Ex Diputada Local`
+  },
+
+          {
+    id: 'lupita-perez',
+    name: 'Lupita Pérez',
+    photoUrl: 'https://vozytestimonio.com/wp-content/uploads/2021/10/Lupita-Perez-Montes.jpg',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 14)
+    ],
+    bio: `Ex Presidenta Municipal de Ezequiel Montes`
+  },
+
+            {
+    id: 'lupita-ramirez',
+    name: 'Lupita Ramírez',
+    photoUrl: 'https://tse1.mm.bing.net/th/id/OIP.x3zgwIbmcTyNoKDD6SJXDAHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'PAN', 
+    aspirations: [
+      position('distrito_local', 15)
+    ],
+    bio: `Presidenta Municipal de Pinal de Amoles`
+  },
+
 ];
