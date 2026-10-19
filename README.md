@@ -16,3 +16,11 @@ El archivo original `src/data/geoData.ts` contiene secciones electorales; `shape
 
 ## Escenarios
 La exclusividad se aplica por persona y por posición/partido. Al confirmar se retira al perfil de otras posiciones y se oculta al resto de aspirantes en la posición confirmada; liberar restaura sus aspiraciones. Guardar escribe en localStorage; exportar/importar usa JSON v1 validado. Los escenarios son locales al navegador; no se comparten entre dispositivos salvo exportación.
+
+
+## Actualizar info
+```sh
+git add .
+git commit -m "Actualización: [perfiles]"
+git push
+```

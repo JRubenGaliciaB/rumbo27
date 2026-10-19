@@ -522,7 +522,7 @@ Ex Diputado Federal y Ex regidor de Querétaro`
             {
     id: 'antonio-perezm',
     name: 'Antonio Pérez Martínez',
-    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.ftANymWYxOpDC_jkjE-xSgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.__VZBdQE4JkVSokwcMjkkwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
     party: 'PAN', 
     aspirations: [
       position('distrito_local', 12)
