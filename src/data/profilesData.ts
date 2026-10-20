@@ -115,6 +115,17 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     ],
     bio: `Diputada Local`
   },
+
+       {
+    id: 'eli-luna',
+    name: 'Eli Luna',
+    photoUrl: 'https://scontent.fgua14-1.fna.fbcdn.net/v/t39.30808-6/615829190_1527070162758065_4792420168897342509_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s960x958&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=M6pFLAZRXwMQ7kNvwFf8B_2&_nc_oc=Ado8d-eauHy2Ffue7sm3_gKd31NScO1tyji9cHoePQffY1-3Xwa4CX6lW3ZsbgDqPlHJ--oDCSMwK3hlpJDMPQ97&_nc_zt=23&_nc_ht=scontent.fgua14-1.fna&_nc_gid=dqEhbsiVT4x8zrkEg6aI4A&_nc_ss=78289&oh=00_AQOPZUnQ1N0GWvioWDJMuL4T7cnzjJCwJNVCDCzH3Mb-pw&oe=6ADD62CD',
+    party: 'MORENA', 
+    aspirations: [
+      position('distrito_federal', 5)
+    ],
+    bio: `Regidora del municipio de El Marqués`
+  },
               {
     id: 'agustin-dorantes',
     name: 'Agustín Dorantes',
@@ -243,8 +254,18 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     aspirations: [
       position('municipio', 10)
     ],
-    bio: `Regidora de Corregidora
-    Ex canidata a la presidencia municipal de Corregidora`
+    bio: `Presidente Municipal de El Marqués`
+  },
+
+                                    {
+    id: 'lei-ordonez',
+    name: 'Lei Ordóñez',
+    photoUrl: 'https://tse2.mm.bing.net/th/id/OIP.avuqzx6Iv1B91u6kxL1yOQHaHe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 10)
+    ],
+    bio: `Presidente Municipal de El Marqués`
   },
               {
     id: 'gina-guzman',
