@@ -301,6 +301,17 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     bio: `Diputado local`
   },
 
+       {
+    id: 'mario-misael',
+    name: 'Mario Misael Perez Pichardo',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.BBamIwWxaReHs13QTeMCcwHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 16)
+    ],
+    bio: ``
+  },
+
                     {
     id: 'ricardo-astudillo',
     name: 'Ricardo Astudillo',
