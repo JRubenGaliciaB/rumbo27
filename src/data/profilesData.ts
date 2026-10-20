@@ -265,7 +265,7 @@ Ex Diputado Federal y Ex regidor de Querétaro`
     aspirations: [
       position('municipio', 10)
     ],
-    bio: `Presidente Municipal de El Marqués`
+    bio: `Regidora de El Marqués`
   },
               {
     id: 'gina-guzman',
@@ -389,6 +389,17 @@ Ex Diputado Federal y Ex regidor de Querétaro`
       position('municipio', 7)
     ],
     bio: `Presidente Municipal de Huimilpan`
+  },
+
+                                {
+    id: 'adriana-novoa',
+    name: 'Adriana Novoa',
+    photoUrl: 'https://tse4.mm.bing.net/th/id/OIP.TPXx40dNVA-VeGSt6O0R4gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+    party: 'MORENA', 
+    aspirations: [
+      position('municipio', 6)
+    ],
+    bio: `Regidora de Ezequiel Montes`
   },
   
                                 {
